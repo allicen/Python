@@ -14,4 +14,5 @@
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/moneybox">Копилка</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/sum-of-elements">Сумма элементов</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/descendant">Наследование</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/class-inheritance">Наследование классов</a></li>
 </ol>
