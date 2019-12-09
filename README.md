@@ -21,4 +21,6 @@
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/lambda">Лямбда-функции</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/scanner-file">Работа с файлами</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/modules-passwords">Расшифровка послания</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/primes">Генераторы</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/str-find">Вхождение подстроки</a></li>
 </ol>
