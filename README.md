@@ -15,4 +15,10 @@
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/sum-of-elements">Сумма элементов</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/descendant">Наследование</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/class-inheritance">Наследование классов</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/catalog">Файловая структура</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/class-raise">Класс исключения</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/import-modules">Импорт модулей, работа с датами</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/lambda">Лямбда-функции</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/scanner-file">Работа с файлами</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/modules-passwords">Расшифровка послания</a></li>
 </ol>
