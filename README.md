@@ -23,4 +23,6 @@
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/modules-passwords">Расшифровка послания</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/primes">Генераторы</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/str-find">Вхождение подстроки</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/substring">Замена подстроки</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/exception-class">Наследование классов исключений</a></li>
 </ol>
