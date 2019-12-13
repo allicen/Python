@@ -27,4 +27,5 @@
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/exception-class">Наследование классов исключений</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/regex">Регулярные выражения</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/csv">Чтение файла .csv</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/json">Разбор JSON</a></li>
 </ol>
