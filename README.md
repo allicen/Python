@@ -28,4 +28,7 @@
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/regex">Регулярные выражения</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/csv">Чтение файла .csv</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/json">Разбор JSON</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/numbers-api">Numbers API</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/artsy-api">Artsy API</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/xml-file">Работа с XML</a></li>
 </ol>
