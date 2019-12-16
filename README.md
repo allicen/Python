@@ -31,4 +31,6 @@
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/numbers-api">Numbers API</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/artsy-api">Artsy API</a></li>
     <li><a href="https://github.com/allicen/Python-task-solution/tree/master/xml-file">Работа с XML</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/requests">Переход между HTML-документами</a></li>
+    <li><a href="https://github.com/allicen/Python-task-solution/tree/master/all-links">Список сайтов из HTML-документа</a></li>
 </ol>
